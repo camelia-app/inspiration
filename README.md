@@ -7,7 +7,11 @@ https://uxdesign.cc/ultimate-start-guide-for-beginner-ux-ui-designer-b848be08958
 
 ## Audio visualization
 
+Basic equalizer (used for beat detection)
 https://medium.com/analytics-vidhya/how-to-create-a-music-visualizer-7fad401f5a69
+
+GANs
+https://github.com/JCBrouwer/maua-stylegan2
 
 ## Video clips
 
