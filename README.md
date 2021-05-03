@@ -16,3 +16,9 @@ https://github.com/JCBrouwer/maua-stylegan2
 ## Video clips
 
 https://www.youtube.com/watch?v=EAwYvhJinoI
+
+## Code
+
+Auto refresh with Vue JS
+
+https://stackoverflow.com/questions/36572540/vue-js-auto-reload-refresh-data-with-timer
