@@ -1,5 +1,10 @@
 # Inspiration & resources
 
+## FFMpeg
+
+Vintage glow effect
+https://www.reddit.com/r/ffmpeg/comments/im2mkp/creating_a_retro_glow_effect_with_ffmpeg/
+
 ## UX/UI
 
 https://uxdesign.cc/ultimate-start-guide-for-beginner-ux-ui-designer-b848be089589
